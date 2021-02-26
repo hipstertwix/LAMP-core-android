@@ -1,3 +1,7 @@
+# Dutch fork of LAMP-code-android
+
+
+
 # Native Gradle Sample using a Node Project folder
 
 An Android Studio project that uses the [`Node.js on Mobile`]( https://github.com/janeasystems/nodejs-mobile) shared library, as an example of using a Node Project folder inside the Application.
